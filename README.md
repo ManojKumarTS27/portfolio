@@ -47,7 +47,7 @@ Messages are handled securely via Formspree and delivered to my email.
 
 I am a Software Developer (Fresher) with knowledge in:
 
---Core Java ,collection
+--Core Python ,Django
 --HTML, CSS, JavaScript
 --MySQL
 
